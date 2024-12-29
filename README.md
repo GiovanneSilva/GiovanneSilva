@@ -1,8 +1,8 @@
 ### Olá, sou o Giovanne Silva, seja bem vindo ao meu GitHub
 
 
-- 🔭 Atualmente trabalho com testes funcionais, não funcionais e automação web e api
-- 🌱 Estou aprendendo sobre testes de contrato e frameworks como Pact
+- 🔭 Atualmente, atuo com testes funcionais, não funcionais e automação de testes para web e APIs.
+- 🌱 Estou constantemente compartilhando projetos de aprendizado sobre diversas tecnologias que me despertam curiosidade.
 
 ### Contatos
 
