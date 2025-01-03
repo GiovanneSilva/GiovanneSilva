@@ -18,4 +18,6 @@
   
   ### GitHub Status
   
-  ![Giovanne Silva GitHub status](https://github-readme-stats.vercel.app/api?username=GiovanneSilva&theme=blue-green)
+  ![Giovanne Silva GitHub status](https://github-readme-stats.vercel.app/api?username=GiovanneSilva&theme=dracula)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanneSilva&&layout=compact&langs_count=7&theme=dracula)
